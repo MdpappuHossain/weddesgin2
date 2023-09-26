@@ -1,0 +1,83 @@
+
+h1{
+    text-align: center;
+    color: brown;
+    
+  
+  
+   
+}
+nav ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+
+nav ul li{
+background: goldenrod;
+list-style: none;
+margin: 6px;
+padding: 8px;
+
+}
+
+.flex{
+    display: flex;
+}
+
+.margin{
+    margin: 20px;
+    padding: 8px;
+}
+.hight{
+height: 350px;
+
+}
+
+.width{
+width: 250px;
+
+}
+
+img{
+    max-width: 100%;
+}
+
+.broder{
+
+    border: 8px solid green;
+    border-radius: 50%;
+}
+
+p{
+    color: rgb(100, 100, 233);
+}
+
+
+.center{
+    justify-content: center;
+}
+
+.texcenter{
+
+    text-align: center;
+    color: brown;
+}
+
+.gor{
+    border: 8px solid green; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
